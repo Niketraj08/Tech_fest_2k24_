@@ -1,11 +1,11 @@
 
-# ⚡Prajwalan 22
+# ⚡Niket raj 
 
-Official Website of Prajwalan, the techfest organised by Government College of Engineering Amravati.
+Official Website of GEC tech fest  the techfest organised by Gandhi Engineering College .
 
 ## 🔥 Live Link
 
-**[www.prajwalan.tech](https://prajwalan.tech)**
+**[](https://niketraj08.github.io/Tech_fest_2k24_/)**
 
 
 ## ⚡ Tech Stack
