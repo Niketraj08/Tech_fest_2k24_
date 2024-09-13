@@ -221,7 +221,7 @@ background: linear-gradient(to right, #0ABFBC, #FC354C);
   } 
   h1 {
     padding: 20px;
-    background: linear-gradient(to right, hsl(0, 0%, 30%) 0, #883ff9 10%, hsl(0, 0%, 30%) 20%);
+    background: linear-gradient(to right, hsl(0, 0%, 30%) 0, #22e36c 10%, hsl(0, 0%, 30%) 20%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: shine 3s infinite linear;
