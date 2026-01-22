@@ -3,7 +3,7 @@
 
 Official Website of GEC tech fest  the techfest organised by Gandhi Engineering College .
 
-## 🔥 Live Link
+
 
 **[](https://niketraj08.github.io/Tech_fest_2k24_/)**
 
