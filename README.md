@@ -7,7 +7,6 @@ Official Website of GEC tech fest  the techfest organised by Gandhi Engineering 
 
 **[](https://niketraj08.github.io/Tech_fest_2k24_/)**
 
-
 ## ⚡ Tech Stack
 
 - HTML
