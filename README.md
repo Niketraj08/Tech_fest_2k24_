@@ -26,7 +26,6 @@ Make changes
 
 Open a pull request, wait for it to be merged.
 
-
 ## ⭐ Best Practices
 - Use BEM convention for naming CSS classes to maintain uniformity in code.
 - Store all images in assets folder.
